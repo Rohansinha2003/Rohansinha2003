@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohansinha2003
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React framework
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on React.
 - 📫 How to reach me 2003rohansinha@gmail.com
 
