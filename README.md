@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Rohansinha2003
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on React.
-- 📫 How to reach me 2003rohansinha@gmail.com
+👋 Hi, I'm Rohan Sinha!
+🚀 Passionate about React.js & Node.js | Open to collaboration
+📚 Currently learning Databases & exploring Machine Learning
+💡 Love building scalable web apps & diving into AI-driven solutions
+🔗 Check out my projects & let's connect!
+
+
 
 <!---
 Rohansinha2003/Rohansinha2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
