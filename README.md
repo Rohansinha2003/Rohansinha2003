@@ -23,11 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-sinhaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohan-sinhaa/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/rohansinha2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rohansinha2003" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rohan_sinha_16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rohan_sinha_16/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rohan_sinha2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rohan_sinha2003/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/2003rohansinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/2003rohansinha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohan-sinhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-sinhaa" height="30" width="40" /></a>
+<a href="https://kaggle.com/rohansinha2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohansinha2003" height="30" width="40" /></a>
+<a href="https://instagram.com/rohan_sinha_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohan_sinha_16" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rohan_sinha2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohan_sinha2003" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/2003rohansinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="2003rohansinha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,8 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohansinha2003&show_icons=true&locale=en" alt="rohansinha2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansinha2003&" alt="rohansinha2003" /></p>
-
-
-
-
-
