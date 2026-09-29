@@ -1,115 +1,240 @@
 <h1 align="center">Hi 👋, I'm Rohan Sinha</h1>
-<h3 align="center">🧠 Building my own LLM | Passionate about Deep Learning & AI | MERN Stack Dev | C++</h3>
+
+<h3 align="center">
+  AI/ML Engineer • LLM Builder • Deep Learning • Software Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=CS+Student+%7C+LLM+Builder;Deep+Learning+%26+Transformers;MERN+Stack+Developer;Teaching+machines+to+think+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Building+and+training+AI+models;LLMs+%7C+Transformers+%7C+Deep+Learning;AI+Engineering+%7C+Model+Training;C%2B%2B+%7C+Python+%7C+JavaScript;Turning+ideas+into+working+systems+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohansinha2003&label=Profile%20views&color=0e75b6&style=flat" alt="rohansinha2003" />
+  <a href="https://github.com/Rohansinha2003">
+    <img src="https://komarev.com/ghpvc/?username=rohansinha2003&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 🎓 CS Student on a mission to build intelligent systems from scratch
-- 🔭 Currently working on **[DeepNova](https://github.com/Rohansinha2003/deepnova)** — my own LLM project
-- 🌱 Currently learning **Deep Learning, Transformers & TensorFlow**
-- 👯 Looking to collaborate on **Large Language Model projects**
-- 💬 Ask me about **Backpropagation, Transformers, React.js or why my loss isn't converging 😅**
-- 📫 Reach me at **2003rohansinha@gmail.com**
-- 📄 Know about my experiences: [Resume / Drive](https://drive.google.com/drive/folders/1o7z4RrhK4zhsVPHZwcbJunmg13H__2Po?usp=sharing)
-- ⚡ Fun fact: **The first "neural network" was built in 1958 — I'm just 66 years late to the party 🚀**
+I'm a **Computer Science engineer focused on Artificial Intelligence, Deep Learning, and Large Language Models**.
+
+I enjoy going beyond simply using AI APIs — I'm interested in understanding **how models work, how they are trained, fine-tuned, evaluated, and deployed**.
+
+* 🔭 Currently building **[DeepNova](https://github.com/Rohansinha2003/deepnova)** — my own LLM project
+* 🧠 Exploring **Transformers, LLMs, RAG, Fine-tuning & Model Training**
+* 🔬 Interested in **efficient and lightweight AI models**
+* 🐍 Building AI/ML projects with **Python, PyTorch & TensorFlow**
+* 💻 Solving **DSA problems in C++**
+* 🌐 Full-stack development experience with **React, Next.js, Node.js & databases**
+* 🚀 Interested in building **AI products from research to production**
+* 🤝 Open to collaborating on **AI/ML, LLM and Deep Learning projects**
+* 📫 Reach me at **[2003rohansinha@gmail.com](mailto:2003rohansinha@gmail.com)**
+
+> **My goal:** Understand AI from the fundamentals and build models instead of only consuming them.
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 What I'm Working On
 
-<p align="left">
-  <a href="https://linkedin.com/in/rohan-sinha-27259221b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/rohansinha2003" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/rohan_sinha_16" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/rohan_sinha2003" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/2003rohansinha" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
+### 🧠 LLMs & Generative AI
+
+* Transformer architectures
+* Tokenization
+* Attention mechanisms
+* Pre-training & fine-tuning
+* RAG systems
+* Embeddings & vector databases
+* LLM evaluation
+* Local / efficient language models
+* Agentic AI & tool calling
+
+### 🔬 Deep Learning
+
+* Neural networks
+* Backpropagation
+* CNNs
+* RNNs / LSTMs
+* Optimization
+* Transfer learning
+* Computer Vision
+
+### 💻 Software Engineering
+
+* Data Structures & Algorithms
+* Backend development
+* REST APIs
+* Database design
+* System design
+* Full-stack applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### 🤖 AI / Machine Learning
+
 <p>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-**Backend**
+### 🧠 LLM / GenAI
+
 <p>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_Databases-000000?style=for-the-badge"/>
+</p>
+
+### 💻 Programming
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+### 🌐 Full Stack
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-**Databases**
+### 🗄️ Databases
+
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
+### ⚙️ Tools & Platforms
 
-**ML / AI / Data Science**
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-**Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white"/>
-</p>
-
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 DeepNova — LLM Project
+
+**Building my own language model from the ground up.**
+
+Exploring the complete LLM pipeline including:
+
+* Tokenization
+* Dataset preparation
+* Transformer architecture
+* Training
+* Evaluation
+* Fine-tuning
+* Model optimization
+* Local inference
+
+🔗 **[View Project](https://github.com/Rohansinha2003/deepnova)**
+
+---
+
+### 🤖 Coding Model
+
+A lightweight language model experiment focused on **code generation and local inference**.
+
+Exploring how smaller models can be trained and optimized to perform useful coding tasks with limited computational resources.
+
+---
+
+### 💰 Finance Buddy
+
+An AI-powered personal finance assistant combining:
+
+* LLMs
+* Financial data
+* RAG
+* APIs
+* Data visualization
+
+---
+
+### ✋ Hand Sign Detection
+
+Computer vision project using:
+
+* TensorFlow
+* OpenCV
+* CVZone
+
+Designed to recognize and interpret hand gestures using a deep learning pipeline.
+
+---
+
+## 🧩 Problem Solving
+
+I regularly practice **Data Structures & Algorithms** using C++.
+
+* 💻 **350+ DSA problems**
+* 🧠 LeetCode
+* ⚡ GeeksforGeeks
+* 🏆 Focus areas: Arrays, Strings, Trees, Graphs, DP, Binary Search & more
+
+---
+
+## 🏆 Achievements
+
+* 🧠 Built and trained my own lightweight language model
+* 🤖 Working on LLMs and Transformer-based architectures
+* 🏗️ Building AI projects from experimentation to deployment
+* 🚀 Participated in **HackIndia 2025 – Tinkerers Lab IIT Hyderabad GenAI Hackathon**
+* 💻 Solved **350+ DSA problems**
+* 📊 Data Analytics Certification – Coding Spoon
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/rohan-sinha-27259221b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rohansinha2003">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://kaggle.com/rohansinha2003">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://www.leetcode.com/rohan_sinha2003">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:2003rohansinha@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -117,13 +242,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohansinha2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohansinha2003&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rohansinha2003&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rohansinha2003&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansinha2003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansinha2003&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
@@ -131,18 +258,30 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohansinha2003&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rohansinha2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
-### ✍️ Dev Quote of the Day
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohansinha2003&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 💭 Developer Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
+
+<p align="center">
+  <b>Building. Learning. Breaking things. Building them better. 🚀</b>
+</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=rohansinha2003&icon=0&color=0" />
