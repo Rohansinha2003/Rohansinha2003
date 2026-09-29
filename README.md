@@ -241,16 +241,20 @@ I regularly practice **Data Structures & Algorithms** using C++.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohansinha2003&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rohansinha2003&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Rohan's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rohansinha2003&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansinha2003&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansinha2003&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages"
+  />
 </p>
 
 ---
